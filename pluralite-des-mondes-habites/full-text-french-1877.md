@@ -1,8 +1,8 @@
 # La Pluralité des Mondes Habités
 
-## Étude ou l'on Expose les Conditions d'Habitabilité des Terres Célestes
+## Étude ou l'on Expose les Conditions d'Habitabilité des Terres Célestes.
 
-### Discutées au Point de Vue de l'Astronomie, de la Physiologie et de la Philosophie Naturelle
+### Discutées au Point de Vue de l'Astronomie, de la Physiologie et de la Philosophie Naturelle.
 
 ## Par Camille Flammarion.
 
