@@ -4,3 +4,5 @@
 French - PDF | Biolinum | Atkinson | Cursive | Aurical | Kerkis | Custom  
 English - Plain Text  
 English - PDF  
+
+ekaterina*.jpeg --- Solar Anamnesis Public Domain, Modified attribution Ekaterina Valinakova. https://flic.kr/p/2aUp7my https://flic.kr/p/Doc9Yj
