@@ -1538,7 +1538,7 @@ Quelques jours avant son départ pour Rome, en janvier 1633, l'illustre septuag�
 *) Cette planète, découverte a l'Observatoire de Paris, le 13 janvier 1875, a reçu son nom en souvenir de notre ouvrage _Lumen : Récits de l'Infini_. Nous nous faisons un plaisir de remercier ici de cette gracieuse attention l'astronome qui l'a découverte. --- Déjà on nous avait fait l'honneur de nous inviter à baptiser la planète 87, et de nommer en notre intention la planète 107 ; et depuis on a bien voulu nous prier de nommer aussi les planètes 154 et 169.  
 Au moment de l'impression, de cette feuille (août 1877), il reste plusieurs planètes qui n'ont pas encore reçu de noms, ou n'ont pas encore été calculées.
 
-## Note B. --- Sur la Chaleur a la Surface des Planètes.
+## Note C. --- Sur la Chaleur a la Surface des Planètes.
 
 La chaleur à la surface des planètes peut dépendre de deux causes principales : elle peut avoir sa source : 1° dans le foyer calorifique de la planète même ; 2° dans le rayonnement du Soleil. Nous examinerons l'une après l'autre ces deux causes indépendantes.
 
