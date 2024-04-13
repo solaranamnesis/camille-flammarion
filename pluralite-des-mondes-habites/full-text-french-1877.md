@@ -2027,4 +2027,251 @@ Nous avons extrait de Swedenborg ce qu'il y a de moins diffus, de moins incompr�
 
 L'_univers_. Lorsque la sombre nuit a étendu son voile sur les plaines azurées, le firmament développe à nos yeux sa grandeur. Les points étincelants dont il est semé sont _les Soleils_ que le Tout-Puissant a suspendu dans l'espace pour éclairer et échauffer _les mondes_ qui roulent autour d'eux.
 
-...
+Les deux racontent la gloire du Créateur, et l'étendue fait connaître l'ouvrage de ses mains. Le génie sublime qui s'énonçait avec tant de noblesse, ignorait cependant que les astres qu'il contemplait fussent des soleils.* Il devançait les temps et entonnait le premier hymne majestueux que les siècles futurs, plus éclairés, devaient chanter après lui à la louange du Maître des Mondes.
+
+*) Les opinions diffèrent. On se rappelle la discussion de Brewster, p. 367 et suivantes.
+
+L'assemblage de ces grands corps se divise en différents systèmes, dont le nombre surpasse peut-être celui des grains de sable que la mer jette sur ses bords.
+
+Chaque système a donc à son centre ou à son foyer une étoile ou un soleil, qui brille d'une lumière propre, et autour duquel circulent différents ordres de globes opaques, qui réfléchissent, avec plus ou moins d'éclat, la lumière qu'ils empruntent de lui et qui nous les rend visibles.
+
+C'était l'astronomie moderne qui devait apprendre aux hommes que les étoiles sont réellement innombrables, et que des constellations où l'antiquité n'en comptait qu'un petit nombre en renferment des milliers. Le ciel des Thalès et des Hipparque était bien pauvre en comparaison de celui que les Huygens, les Cassini, les Halley nous ont dévoilé.
+
+Mortel orgueilleux et ignorant ! lève maintenant les yeux au ciel et réponds-moi. Quand on retrancherait quelques-uns de ces luminaires qui brillent à la voûte étoilée, tes nuits en deviendraient-elles plus obscures ? Ne dis donc pas : Les étoiles sont faites pour moi, c'est pour moi que le firmament resplendit de cet éclat majestueux. Insensé ! tu n'étais point le premier objet des libéralités du Créateur lorsqu'il ordonnait Sirius et qu'il en compassait les sphères.
+
+Les étoiles, comme autant de soleils, éclairent d'autres Mondes, que leur prodigieux éloignement nous dérobe, et qui ont, comme le nôtre, leurs productions et leurs habitants. L'imagination succombe sous le poids de la création. Elle cherche la Terre et ne la démêle plus : elle se perd dans cet amas, immense de corps célestes comme un grain de poussière dans une haute montagne.
+
+Parvis resplendissants de la gloire céleste, demeures éternelles des esprits bienheureux, Saint des saints de la création, trône auguste de Celui qui est, un vermisseau pourrait-il vous décrire !
+
+_Division générale des êtres._ Les _esprits purs_, substances immatérielles et intelligentes ; les _corps_, substances étendues et solides ; les _êtres mixtes_, formés de l'union d'une substance immatérielle et d'une substance corporelle, sont les trois classes générales d'êtres que nous voyous ou que nous concevons dans l'unixers.
+
+S'il n'existe pas deux feuilles, deux insectes, deux hommes semblables, que sera-ce de deux planètes, de deux tourbillons planétaires, de deux systèmes solaires ? Chaque globe a son économie particulière, ses lois, ses productions.
+
+Il est peut-être des mondes si imparfaits relativement au nôtre qu'il ne s'y trouve que des êtres de la première ou de la seconde classe.
+
+D'autres mondes peuvent être au contraire si parfaits, qu'il n'y ait que des êtres propres aux classes supérieures. Dans ces derniers mondes, les rochers sont organisés, les plantes sentent, les animaux raisonnent, les hommes sont anges.
+
+Quelle est donc l'excellence de la Jérusalem céleste où l'ange est le moindre des êtres intelligents ?
+
+Là rayonnent de toutes parts les anges, les archanges, les séraphins, les trônes, les chérubins, les vertus, les principautés, les dominations, les puissances. Au centre de ces augustes sphères éclate le Soleil de justice, l'Orient d'en haut, dont tous les autres astres empruntent leur lumière et leur splendeur.
+
+Habitants de la Terre, qui avez reçu une raison capable de vous persuader l'existence de ces Mondes, n'y porterez-vous jamais vos pas ? L'Être infiniment bon qui vous les montre de loin vous en refuserait-il à jamais l'entrée ? Non ; appelés à prendre place un jour parmi les hiérarchies célestes, vous volerez comme elles, de planètes en planètes ; vous irez éternellement de perfection en perfection. Tout ce qui a été refusé à votre perfection terrestre, vous l'obtiendrez sous cette économie de gloire : vous connaîtrez comme vous avez été connus.
+
+## Lambert.
+
+### Système du Monde : Population de l'Univers.
+
+Si nous sommes bien convaincus que tout est fait avec dessein, que tout est lié, que le monde est l'expression des attributs de Dieu, nous serons portés à croire que tous les globes sont habités, et que tout l'espace de l'univers est aussi rempli de globes qu'il pouvait l'être. Nous ne pourrons nous résoudre à laisser des vides et des lacunes dans un ouvrage aussi parfait : dans tous les lieux où il y a des points de vue, nous placerons des observatoires et des observateurs.
+
+Ne voyons-nous pas déjà sur la terre tout plein de vie et de mouvement, et la nature partout occupée à féconder, à organiser, à animer la matière ? Dans un grain de sable, dans une goutte d'eau, nous apercevons des mondés et des habitants ; encore nos meilleurs microscopes ne nous montrent-ils que les baleines et les éléphants de ces mondes ; ils sont bien éloignés d'atteindre jusqu'aux insectes. Et l'on voudrait que tous ces vastes corps qui nagent avec nous autour du soleil, et qui en reçoivent comme nous la lumière et la chaleur vitale, fussent vides et dépeuplés ? Je ne connais point d'opinion plus déraisonnable ni plus indigne d'un être qui pense.
+
+Si les corps célestes étaient immobiles et toujours fixés au même endroit, il y aurait sans doute place pour un bien plus grand nombre qu'il n'y en a. Mais leur mouvement était nécessaire au maintien, à l'ordre et à la perfection du système ; pour les réunir en un tout, il fallait cette gravitation réciproque en vertu de laquelle ils agissent et réagissent les uns sur les autres. Il fallait donc leur ménager des carrières dans lesquelles chacun d'eux pût paisiblement achever et renouveler sa courbe.
+
+Le mouvement se fait dans le temps et dans l'espace : ainsi, le plan d'un monde bien ordonné exigeait une combinaison régulière de ces deux choses.
+
+Tout cet espace est employé en orbites et en globes qui les parcourent. Cela doit s'entendre non-seulement du système solaire, mais de tous sans exception. Chaque étoile fixe gouverne un monde aussi rempli et peuplé que le nôtre, à proportion de sa capacité ; et ces mondes sont en aussi grand nombre que le permet la capacité de l'univers entier qui les renferme. Quel beau, quel ravissant spectacle que cette machine immense qui se remue et entretient ses mouvements variés à l'infini par la loi la plus simple, par le seul principe de la gravitation ! C'est ici le chef-d'œuvre de l'intelligence créatrice et l'objet éternel de l'admiration des hommes et des anges.
+
+Nous voulons que tous les globes soient habités ; mais sont-ils tous habitables ? Les comètes semblent ici faire une exception qui n'irait pas à moins qu'à anéantir la règle ; car, à en juger seulement d'après celles dont la mémoire s'est conservée, ces astres sont en beaucoup plus grand nombre dans le système solaire que les planètes.
+
+Comment concevoir que des êtres vivants puissent durer dans un domicile qui passe par les dernières extrémités du chaud et du froid ?
+
+Il faut sans doute qu'ils soient d'un tempérament bien plus vigoureux et d'une constitution bien différente de la nôtre. Mais où est la nécessité que tous les êtres vivants soient faits comme nous ? N'est-il pas infiniment plus vraisemblable qu'il y ait de globe en globe une variété d'organisation et de complexion relative aux besoins des peuples qui les habitent, correspondant aux lieux de leur demeure et aux changements de température qu'il leur faut subir ? N'est-on pas également revenu du préjugé qui longtemps avait fait regarder la zone torride et la zone glacée comme inhabitables ? N'y a-t-il donc que des hommes sur la terre même ? Et si nous n'eussions jamais vu ni poissons ni oiseaux, ne serions-nous pas également fondés à regarder les eaux et les airs comme dépeuplés ? Sommes-nous bien sûrs que le feu n'ait pas ses habitants invisibles, dont les corps soient faits d'asbeste, ou de quelque autre substance impénétrable à la flamme ? Disons que la nature des êtres qui peuplent les comètes nous est inconnue, mais ne nions pas leur existence, et encore moins leur possibilité.
+
+J'aime à me figurer ces globes voyageurs peuplés d'astronomes qui sont là tout exprès pour contempler la nature en grand, comme nous ne la contemplons qu'en petit. Leur observatoire mobile, voguant d'un soleil à l'autre, les fait passer successivement par tous les points de vue, et les met à portée de tout voir, de déterminer la position et le mouvement de tous ces astres, de mesurer les orbites des planètes et des comètes qui roulent autour d'eux, de savoir comment les lois particulières se résolvent dans les lois générales, de connaître, en un mot, et les détails et l'ensemble.
+
+## Sir Humphry Davy.
+
+### Les Derniers Jours d'un Philosophe.
+
+Sir Humphry Davy, président de la Société royale d'Angleterre, membre de l'Institut, etc., a écrit ; vers 1827, un ouvrage admirable quoique inconnu en France : _The last Days of a Philosopher_ « Les Derniers Jours d'un Philosophe. » En 1867, séjournant dans l'île de Jersey, cet ouvrage nous tomba sous la main, par le plus grand des hasards en apparence. Il nous frappa étrangement et par l'originalité de sa forme et par la profondeur des sujets traités. Aussi, fort étonné de le voir presque inconnu dans notre pays, nous nous sommes fait un devoir de le traduire et de le publier en France. Cette traduction a été publiée en 1869.
+
+La Pluralité des mondes forme le sujet de l'un de ces entretiens philosophiques. L'auteur, solitaire au milieu des ruines du Colisée à Rome, est transporté par un esprit dans les sphères célestes, et, examine les planètes habitées. Nous nous faisons un véritable plaisir d'extraire de cet entretien le fragment suivant, qui témoigne des opinions personnelles du grand chimiste à l'égard de la doctrine de la Pluralité des mondes habités. Qu'on ne l'oublie pas : ces pages ont été écrites avant 1830.
+
+Transporté en esprit dans le globe de Saturne, l'auteur décrit, dans les termes suivants, le spectacle déployé devant lui.
+
+### Voyage dans Saturne, et Habitants des Planètes.
+
+« Il y avait sous mes regards une surface infiniment diversifiée, offrant quelque ressemblance avec un immense glacier. Ce champ était couvert de masses en colonnes qui paraissaient être de verre, et auxquelles étaient suspendues certaines formes rondes de diverses grandeurs, que j'aurais prises pour autant de fruits, si elles n'eussent été transparentes. Des fleuves d'un rose tendre et de couleur pourpre éclatante sortaient de monticules en apparence analogues à de la glace, dont le teint était d'un bleu vif, et tombaient dans des bassins où se formaient des lacs de la même couleur. Tournant mes regards vers le ciel, je vis dans l'atmosphère des nuages bleus resplendissant comme du saphir, suspendus dans le vide et réfléchissant la lumière du soleil ; cet astre offrait à mes yeux un aspect nouveau, et paraissait beaucoup plus petit que sur la terre, comme s'il eût été voilé d'un brouillard bleu. »
+
+« Dans l'espace déployé devant moi, je vis en mouvement des êtres gigantesques d'une forme indescriptible ; ils paraissaient munis d'un système de locomotion analogue à celui du cheval marin, mais je m'aperçus avec une grande surprise que leurs mouvements s'effectuaient à l'aide de six membranes extrêmement minces, dont ils se servaient comme si c'eussent été des _ailes_. Leurs couleurs étaient belles et variées, les nuances dominantes étaient l'azur et le rose. La partie antérieure de leur corps était munie d'un grand nombre de tubes enroulés mobiles, dont la forme rappelait plutôt celle de trompes d'éléphants, que tout autre objet terrestre ; je ne fus pas peu étonné, et je dirai même désagréablement surpris, par le caractère bizarre des organes de ces êtres étranges ; et j'éprouvai même une peur insolite lorsque je m'aperçus que l'un d'eux montait et prenait son vol vers ces nues opaques dont j'ait parlé tout à l'heure. »
+
+« Je sais quelles réflexions t'agitent, me dit le Génie qui m'avait amené sur cette plage. L'_analogie_ te fait défaut, et il te manque les éléments du savoir pour comprendre cette scène. Tu es à présent dans le cas où se trouverait une mouche si son œil multiple était tout à coup métamorphosé en un œil semblable à celui de l'homme, et tu es complètement incapable de mettre ce que tu vois en _relation_ avec tes connaissances normales antérieures. Eh bien ! ces êtres, qui sont devant toi, et te paraissent presque aussi imparfaits que les zoophytes de vos mers polaires, auxquels ils ressemblent un peu dans leur organisation apparente, _ce sont les habitants de Saturne_. Ils vivent dans l'atmosphère. Leur degré de sensibilité et de bonheur intellectuel surpasse de beaucoup celui des habitants de la terre. Ils sont doués de sens nombreux, de moyens de perception dont tu ne pourrais saisir l'action. Leur sphère de vision est beaucoup plus étendue que la tienne, et leurs organes du toucher incomparablement plus délicats et plus finement perfectionnés. Il est inutile que j'essaye de t'expliquer leur organisation, tu ne saurais évidemment la concevoir ; quant à leurs occupations intellectuelles, je vais essayer de t'en donner quelque idée. »
+
+« Ils ont asservi, modifié et appliqué les forces physiques de la nature, d'une manière analogue à celle qui caractérise l'œuvre industinelle de l'homme terrestre ; mais, jouissant de pouvoirs supérieurs, ils ont obtenu des résultats également supérieurs. Leur atmosphère ayant beaucoup plus de densité que la vôtre, et la pesanteur spécifique de leur planète étant moindre, ils ont pu déterminer les lois qui appartiennent au système solaire avec beaucoup plus de précision qu'il vous serait possible d'apporter à cette connaissance ; et le premier venu de ces êtres saurait t'annoncer quelles sont en ce moment la position et l'aspect de votre lune avec une telle précision que tu serais convaincu qu'il la voit, tandis que sa connaissance ne serait pourtant que le résultat du calcul. »
+
+« Leurs sources de plaisir sont de la plus haute nature intellectuelle ; avec le magnifique spectacle de leurs anneaux et de leurs lunes qui gravitent autour ; grâce aux combinaisons variées nécessaires pour comprendre et prédire les rapports de ces merveilleux phénomènes, leurs esprits sont dans une activité incessante et cette activité est une source perpétuelle de jouissances. Votre connaissance du système solaire se borne à Uranus, et les lois de cette planète tracent les bornes de vos résultats mathématiques. Mais ces êtres ont pénétré les mystères planétaires d'un autre système, et même ils discutent sur les phénomènes présentés par les autres soleils. Les comètes sur lesquelles votre histoire astronomique est si imparfaite, leur sont devenues très-familières, et leurs positions sont marquées dans leurs éphémérides avec la même exactitude que celles de Jupiter et de Vénus le sont dans les vôtres. La parallaxe des étoiles fixes les plus rapprochées est aussi rigoureusement mesurée par eux que celle de leur propre soleil, et ils possèdent une histoire détaillée des changements qui ont lieu dans le ciel, lesquels sont causés par des lois qu'il me serait inutile de chercher à t'apprendre. Ils sont familiers avec les révolutions et les usages des comètes ; ils connaissent le système de ces formations météoriques de pierres qui ont naguère causé sur votre terre un si profond étonnement ; ils ont enfin noté les changements graduels qui s'opèrent dans les nébuleuses pendant leurs transformations en systèmes, de sorte qu'ils peuvent prédire leurs modifications futures. Leurs annales astronomiques ne ressemblent pas aux vôtres, qui ne remontent qu'à vingt siècles, au temps d'Hipparque : elles embrassent une période cent fois plus longue, et leur histoire civile est aussi exacte pendant toute cette durée que leur histoire astronomique. Comme je ne puis faire à ton entendement la description des organes de ces êtres merveilleux, je ne puis davantage te faire connaître leurs modes d'existence, mais comme ils cherchent le bonheur dans les œuvres intellectuelles, tu peux en conclure que ces modes d'existence offrent la plus frappante analogie avec ce que sur votre terre l'on appellerait la plus haute perfection. »
+
+« Un autre point non moins important est d'ajouter qu'ils n'ont point de guerres, et qu'ils n'ambitionnent que la grandeur intellectuelle ; ils ne ressentent aucune de vos passions, si ce n'est un grand sentiment d'émulation dans l'amour de la gloire. Si je devais te montrer les diverses parties de la surface de cette planète, tu apprécierais les résultats merveilleux du pouvoir dont sont douées ces hautes intelligences, et de la manière admirable dont elles ont su appliquer et modifier la matière. »
+
+« Ces colonnes, qui paraissent sortir d'un glacier inférieur, sont des œuvres d'art, et dans l'intérieur desquelles s'accomplissent des travaux ayant pour objet la formation et l'acommodation de leur nourriture. Des fluides de couleurs brillantes sont les effets de ces opérations, analogues à celles qui sur la terre se font dans vos laboratoires, ou, pour mieux dire, dans vos appareils culinaires, car tout ceci a pour objet leur système de nourriture. Ils ne se nourrissent pas comme vous d'aliments grossiers, mais de fluides. »
+
+« Ces beaux nuages d'azur, vers lesquels tu voyais, il y a quelques minutes, un de ces êtres diriger son vol, sont aussi des œuvres d'art ; on pourrait les appeler des chars aériens dans lesquels les habitants se font transporter parmi les régions différentes de leur atmosphère, afin de gouverner les quantités de température et de lumière les mieux adaptées à leurs recherches scientifiques, ou les plus convenables pour les avantages de la vie physique. »
+
+« Je pourrais maintenant te transporter en d'autres planètes, et te montrer dans chacune des êtres particuliers, offrant certaines analogies les uns avec les autres, mais différant essentiellement dans leurs facultés caractéristiques. »
+
+« Sur Jupiter, tu verrais des créatures analogues à celles que tu viens d'observer sur Saturne, mais munies de moyens de locomotion bien différents. Dans les mondes de Mars et Vénus, tu trouverais des races de formes plus rapprochées de celles qui appartiennent à la terre ; mais, dans chaque partie du système planétaire, il existe un caractère spécial à toutes les natures intellectuelles : c'est le sens de la vision, la faculté organique de recevoir les impressions de la lumière. Tu ne manquerais pas d'apercevoir que tous les arrangements et les mouvements des corps planétaires, de leurs satellites, de leurs atmosphères tendent à ce résultat. Les âmes, dans leurs transmigrations d'un système à un un autre, en progressant toujours vers le savoir et la puissance, conservent au moins ce caractère invariable, et leur vie intellectuelle est en connexion permanente avec l'œuvre de la lumière. »
+
+« Le grand univers est partout occupé par _la vie_, mais le mode de manifestation de cette vie est infiniment diversifié, et il faut que les formes possibles, en nombre infini, soient revêtues par les natures spirituelles avant la consommation de toutes choses. »
+
+« La comète s'enfuyant à travers les cieux, avec sa traînée lumineuse, s'est déjà montrée à tes regards ; eh bien ! ces mondes singuliers sont aussi le séjour d'êtres vivants, qui puisent les éléments et les joies de leur existence dans la diversité des circonstances auxquelles ils sont exposés ; traversant pour ainsi dire l'espace infini, ils sont continuellement charmés par la vue de mondes et de systèmes nouveaux. Imagine, si tu le peux, la sphère incommensurable de leurs connaissances ! Je puis, si tu le désires, te donner un aperçu d'un monde cométaire. »
+
+Emporté de nouveau par un mouvement rapide, je passai avec la plus grande vitesse à travers un espace lumineux, je vis Jupiter avec ses satellites, Saturne et ses anneaux ; le Soleil arriva près de moi, non plus voilé par le brouillard bleu, mais, dans tout l'éclat d'une éblouissante splendeur. Enveloppé dans une sphère mystérieuse et dans une espèce de lumière rougeâtre brumeuse, semblable à celle qui m'avait premièrement entouré dans le Colisée, je vis en mouvement autour de moi des globes qui paraissaient composés de flammes et de couleurs différentes.
+
+Dans quelques-uns de ces globes j'aperçus des figures qui ressemblaient à des faces humaines ; mais la ressemblance était tellement dénaturée et terrible, que je m'efforcai d'en détourner mes regards.
+
+« Tu es à présent, me dit le Génie, dans un système cométaire ; ces globes de lumière qui t'entourent sont des formes matérielles, semblables à celles que l'une des croyances religieuses de la terre a accordées aux séraphins ; ces êtres vivent dans un élément qui te détruirait ; ils communiquent entre eux par des manifestations qui réduiraient en cendres vos corps organisés ; actuellement ils sont dans la plénitude de leur jouissance, car ils vont entrer dans l'atmosphère flamboyante du soleil. Ces êtres tellement grands, tellement glorieux, doués de fonctions qui te sont incompréhensibles, jadis appartinrent à la terre ; leurs natures spirituelles se sont élevées par les degrès différents de la vie planétaire, se sont dépouillées de leur poussière, et n'ont emporté avec elles que leur puissance intellectuelles. »
+
+« Tu me demandes en esprit s'ils ont quelque connaissance ou souvenir de leurs transmigrations ? Raconte-moi tes propres souvenirs dans le sein de ta mère, et je te donnerai ma réponse ... »
+
+« Apprends-le donc, c'est la loi de la sagesse suprême : qu'aucun esprit n'apporte dans un autre état d'existence des habitudes et des qualités mentales autres que celles qui sont en rapport avec sa situation nouvelle ; le savoir relatif à la terre ne serait pas plus utile à ces êtres glorifiés, que ne le serait leur poussière terrestre organisée, qui dans une température pareille serait réduite à son dernier atome ; sur la terre même, le papillon n'emporte pas avec lui dans l'air les organes ou les appétits de la chenille rampante de laquelle il est sorti. Toutefois, il y a un sentiment, une passion, que la monade ou essence spirituelle conserve toujours avec elle dans tous les étages de son existence, et qui chez ces êtres heureux et élevés s'augmente perpétuellement encore. C'est l'_amour du savoir_, c'est cette faculté intellectuelle, qui devient en effet, dans son dernier et plus parfait développement, l'amour de la sagesse infinie et l'union avec Dieu. Elle est la grande condition du progrès de l'âme en ses transmigrations dans la vie éternelle. »
+
+## Young.
+
+### La Nuit.
+
+Que Dieu est grand ! qu'il est puissant, l'Être qui lance la lumière au travers des masses opaques de tous ces globes, qui a tissu l'ensemble brillant de la nature, et suspendu l'univers comme un riche diamant à la base de son trône ! Laissez tomber un poids de la hauteur d'une étoile fixe, combien de siècles s'écouleront avant qu'il arrive à la Terre ? Où commence donc, où finit ce vaste édifice ? Où s'élèvent les derniers murs qui, dominant sur l'abîme du néant, enferment dans leur enceinte le séjour des êtres ? A quel point de l'espace le Créateur s'est-il arrêté, a-t-il terminé les lignes de son plan et déposé sa balance ?
+
+L'univers que je vois est-il son seul ouvrage, ou bien a-t-il loin de mes yeux fécondé d'un souffle le sein de l'espace ? A-t-il encore tiré du chaos une infinité d'autres Mondes, et s'est-il placé au milieu d'une infinité de ces systèmes divers, comme un Soleil central qui les pénètre tous de ses rayons, les voit flotter autour de lui comme des atomes dans les torrents de sa lumière et retomber dans la nuit du chaos, s'il en arrête les jeux brillants ? Le désir de toucher au terme des êtres s'éveille dans mon âme ; je veux m'élever de sphère en sphère et parcourir l'échelle radieuse que la nuit me présente. Elle s'abaisse jusqu'à l'homme, c'est pour qu'il monte. Je ne balance plus, je me livre à la pensée. Enlevé sur son aile de feu, je m'élance de la Terre comme de ma barrière. Comme je vois son globe s'éloigner et décroître à mes yeux ! Avec quelle vitesse je me sens monter ! J'ai passé l'astre de la nuit ; je touche au rideau d'azur des cieux. Je suis passé, j'ai pénétré dans les espaces reculés. C'est ici qu'atteint l'œil savant de l'astronome : c'est ici que se borne sa vue allongée par le tube merveilleux. A chaque planète que je trouve sur ma route, je m'arrête, je l'interroge sur Celui qui fait briller et rouler son orbe. Du vaste anneau de Saturne, où des milliers de Terres comme la nôtre seraient perdues, je m'élève et suis avec audace le vol hardi de la comète. J'arrive avec elle au milieu de ces Soleils souverains qui brillent d'une lumière indépendante, âmes des mondes, par lesquelles tout vit et respire. Que vois-je ici ? Un espace sans bornes, semé de sources enflammées ; des globes, plus vastes que les nôtres, roulant dans des cercles plus élevés. Avançons plus loin, ma course n'est que commencée. Ce n'est sans doute que le portique du palais de l'Éternel. Quelle est mon erreur ! l'Éternel est bien au-dessus ; je rampe encore. Plus j'avance vers lui, plus il recule loin de moi.
+
+Où suis-je ? où est la Terre ? Soleil, où es-tu ? Que le cercle où tu voyages est étroit ! Je suis ici debout sur le sommet de la nature. Mes regards dominent son enceinte. Que de milliers de Cieux et de Mondes je vois rouler sous mes pieds, comme des grains brillants ! Arrivé si loin et dans des régions si nouvelles pour moi, puis-je n'être pas curieux d'apprendre quels sont les habitants de ces climats si différents de la Terre ? Aucun mortel n'y a jamais abordé vivant.
+
+O vous, placés loin de ma chétive demeure, à une distance que les rayons les plus rapides de mon Soleil ne pourraient traverser en un siècle, j'erre loin de ma patrie. Je cherche des merveilles nouvelles à l'admiration de l'homme. Quel est le nom de cette contrée du domaine immense du Maître à qui tout obéit ? Voisins du séjour de la félicité, êtes-vous des mortels ou des dieux ? Êtes-vous une colonie venue des cieux ? Quelle que soit votre nature, vous devez vivre une autre vie, parler un autre langage, avoir bien d'autres idées que l'homme. Quelle variété dans les ouvrages de notre Créateur ! ... Mais de quelle nature sont vos pensées ? La raison est-elle ici sur un trône, règne-t-elle en souveraine sur les sens, ou se révoltent-ils contre elle ? Quand son flambeau s'éteint, en avez-vous un second dont la lumière vous guide ? Vos heureux royaumes jouissent-ils encore de leur âge d'or ? Vos premiers ancêtres ont-ils conservé leur innocence ? La vertu vous est-elle facile et naturelle ? Est-ce ici votre dernier séjour ? Si vous en changez, êtes-vous transférés vivants, ou vous faut-il mourir ? De quelle espèce est votre mort ? Connaissez-vous la douleur et la maladie, connaissez-vous la guerre horrible ? A l'heure où je vous parle, une guerre fatale déchire l'Europe gémissante : nous appelons ainsi un petit coin de l'univers, où s'agitent des rois insensés. Dans le monde où je suis né, ou n'attend pas que la mort vienne à la suite des ans ; l'intempérance hâte l'œuvre de la vieillesse. La mort a trouvé qu'elle était trop lente à nous détruire, elle a déposé son carquois, suspendu ses faux et chargé les rois d'entretenir à sa placa une boucherie continuelle de l'espèce humaine. Leur ambition la sert mieux que son glaive. Croiriez-vous qu'on en a vu qui faisaient égorger leur troupeau après l'avoir dépouillé, et qui buvaient dans un repas le sang de plusieurs milliers de sujets ?
+
+O vous, habitants de ces mondes éloignés, répondez-moi : ceux qui vous envoient mourir sont-ils aussi sur des trônes ? Chez vous, la fureur de détruire fait-elle des dieux ? Les conquérants trouvent-ils la gloire en répandant le sang des hommes ? Mais peut-être êtes-vous exempts de la mort et de la douleur ; peut-être qu'un éther pur et délié compose votre être privilégié ? Affranchis de la pesanteur et de la corruption, vous vous élevez sans doute, vous planez à votre gré dans l'espace. Que votre sort est différent de celui de notre humanité ! Esclaves malheureux d'un limon vil et grossier qui tue l'âme, nous sommes un tout formé de deux parties qui ne peuvent se concilier et qui se font une guerre éternelle. Mais vous n'avez aucune idée de l'homme ni de la Terre (c'est le nom d'un hôpital où sont les fous de l'univers). La raison même y est insensée, et souvent y joue le rôle de la folie. Que ce récit doit vous paraître étrange ! N'avez-vous jamais entendu parler de l'existence de ce genre humain ? Le char enflammé d'Hénoc et d'Élie n'a-t-il point passé près de ces lieux ? L'ange des ténèbres, lorsqu'il tomba des cieux, n'a-t-il point souillé la pureté de votre éther ? N'a-t-il point éclipsé quelques instants votre globe par le passage de son ombre immense ? ...
+
+Si je me trompe en multipliant les univers, mon erreur est sublime. Elle est appuyée sur une vérité, elle a pour base l'idée de la grandeur de Dieu. Et qui me démontrera que c'est une erreur ? Qui osera assigner des bornes à la Toute-Puissance ? L'homme peut-il imaginer au delà de ce que Dieu peut faire ? Un monde ne lui coûte pas plus à créer qu'un atome. Qu'il dise : Qu'ils soient ! et des milliers de Mondes vont naître. Froid censeur, ne condamne point mon enthousiasme. Laisse-moi ces idées qui m'agrandissent et m'enflamment. Mon imagination ne peut plonger sans un sentiment d'horreur dans l'empire muet et désert du néant.
+
+L'expérience vient elle-même appuyer ma conjecture. De l'infiniment petit à l'infiniment grand, les deux termes de la création sé répondent et se font équilibre l'un à l'autre : la pensée ne doit pas craindre de trop descendre vers l'extrême petitesse, ni de trop s'élever vers l'extrême grandeur. L'erreur sera toujours dans le défaut et jamais dans l'excès. Quel effet peut paraître trop grand quand on songe à la cause ? Étonnant Architecte ! mon âme peut s'abaisser ou s'élever à son gré dans l'immensité de ton idée, sans jamais pouvoir quitter le centre. _Je suis_ est ton nom. Toute existence l'appartient. La création n'est encore qu'un néant ; ce n'est qu'un voile flottant devant toi comme l'atmosphère légère devant l'astre.
+
+Savants de la Terre, observateurs de la nature, génies supérieurs qui volez sur les traces de Newton, avez-vous découvert Celui qui voit le faîte de la création abaissée dans la profondeur d'un abîme ? Avez-vous trouvé l'orbe du grand Être, du Soleil universel qui attire à lui tous les êtres ; avez-vous reconnu les satellites qui l'environnent, les étoiles du matin qui assistent à son lever et forment sa cour ? Ce n'est pas la science, c'est la religion qui me conduira jusqu'à lui ; l'humble amour pénètre où la raison superbe ne peut atteindre ... Chacun de ces astres est un temple où Dieu reçoit l'hommage qui lui est dû. J'ai vu fumer leurs autels ; j'ai vu leur encens s'élever vers son trône ; j'ai entendu les sphères retentir des concerts de sa louange. Il n'est rien de profane dans l'Univers. La nature entière est un lieu consacré :
+
+_Each of these stars is a religious house ;_  
+_I saw their altars smoke, their incense rise,_  
+_And heard hosannahs ring through every sphere !_
+
+Admirables pensées ; Milton n'avait pas été plus beau :
+
+What if that light,  
+Sent from her through the wide transpicuous air,  
+To the terrestrial moon be as a star,  
+Enlightening her by day, as she by night  
+This Earth ? Reciprocal, if land be there,  
+Fields and inhabitants : her spots thou seest  
+As clouds, and clouds may rain, and rain produce  
+Fruits in her soften'd soil, for some to eat  
+Allotted there ; and other suns perhaps,  
+Which their attendant moons, thou wilt descry,  
+Communicating male and female light ;  
+Which two great sexes animate the world,  
+Stored in each orb perhaps with some that live :  
+For such vast room in nature unpossess'd  
+By living soul, desert, and desolate,  
+Only to shine, yet scarce to contribute  
+Each orb a glimpse of light, conveyed so far  
+Down to this habitable, which returns  
+Light back to them, is obvious to dispute.  
+(_Paradise lost_, book 8.)
+
+## De Fontanes.
+
+### Les Mondes.
+
+Comme le nôtre aussi, sans doute ils ont vu naître  
+Une race pensante avide de connaître :  
+Ils ont eu des Pascals, des Leibnitz, des Buffons.  
+Tandis que je me perds en ces rêves profonds,  
+Peut-être un habitant de Vénus, de Mercure,  
+De ce globe voisin qui blanchit l'ombre obscure,  
+Se livre à des transports aussi doux que les miens.  
+Ah ! si nous rapprochions nos hardis entretiens !  
+Cherche-t-il quelquefois ce globe de la Terre  
+Qui, dans l'espace immense, en un coin se resserre ?  
+A-t-il pu soupçonner qu'en ce séjour de pleurs  
+Rampe un être immortel qu'ont flétri les douleurs ?  
+Habitants inconnus de ces sphères lointaines,  
+Sentez-vous nos besoins, nos plaisirs et nos peines ?  
+Connaissez-vous nos arts ? Dieu vous a-t-il donné  
+Des sens moins imparfaits, un destin moins borné ?  
+Royaumes étoiles, célestes colonies,  
+Peut-être enfermez-vous ces esprits, ces génies,  
+Qui, par tous les degrés de l'échelle du ciel,  
+Montaient, suivant Platon, jusqu'au trône éternel.  
+Si pourtant, loin de nous, de ce vaste empyrée,  
+Un autre genre humain peuple une autre contrée,  
+Hommes, n'imitez pas vos frères malheureux.  
+En apprenant leur sort, vous gémiriez sur eux.  
+Vos larmes mouilleraient nos fastes lamentables.  
+Tous les siècles en deuil, l'un à l'autre semblables,  
+Courent sans s'arrêter, foulant de toutes parts  
+Les trônes, les autels, les empires épars ;  
+Et, sans cesse frappés de plaintes importunes,  
+Passent en me contant nos longues infortunes.  
+Vous, hommes, nos égaux, puissiez-vous être, hélas ;  
+Plus sages, plus unis, plus heureux qu'ici bas.
+
+## Ponsard.
+
+### Galilée.
+
+Non, les temps ne sont plus où, reine solitaire,  
+Sur son trône immobile on asseyait la Terre ;  
+Non, le rapide char, portant l'astre du jour,  
+De l'aurore au couchant ne décrit plus son tour ;  
+Le firmament n'est plus la route cristalline  
+Qui, comme un plafond bleu, de lustres s'illumine ;  
+Ce n'est plus pour nous seuls que Dieu fit l'univers ;  
+Mais, loin de nous tenir abaissés, soyons fiers !  
+Car, si nous abdiquons une royauté fausse,  
+Jusqu'au règne du vrai la science nous hausse.  
+Plus le corps s'amoindrit, plus l'esprit devient grand ;  
+Notre noblesse croît où décroît notre rang.  
+Il est plus beau pour l'homme, infime créature,  
+De saisir les secrets voilés par la nature,  
+Et d'oser embrasser dans sa conception  
+L'universelle loi de la création,  
+Que d'être, comme aux jours d'un vaniteux mensonge  
+Roi d'une illusion et possesseur d'un songe,  
+Centre ignorant d'un tout qu'il croyait fait pour lui,  
+Et que, par la pensée, il conquiert aujourd'hui.
+
+Soleil, globe de feu, gigantesque fournaise,  
+Chaos incandescent, où bout une genèse,  
+Océan furieux où flottent éperdus  
+Les liquides granits et les métaux fondus,  
+Heurtant, brisant, mêlant leurs vagues enflammées  
+Sous de noirs ouragans tout chargés de fumées,  
+Houle ardente, où parfois nage un îlot vermeil,  
+Tache aujourd'hui, demain écorce du soleil.  
+Autour de toi se meut, ô fécond incendie,  
+La Terre, notre mère, à peine refroidie,  
+Et, refroidis comme elle et comme elle habités,  
+Mars sanglant, et Vénus l'astre aux blanches clartés,  
+Dans tes proches splendeurs Mercure qui se baigne,  
+Et Saturne en exil aux confins de ton règne,  
+Et par Dieu, puis par moi, couronné dans l'éther  
+D'un quadruple bandeau de lunes, Jupiter.
+
+Mais, astre souverain, centre de tous ces mondes,  
+Par delà ton empire aux limites profondes  
+Des milliers dé soleils, si nombreux, si touffus,  
+Qu'on ne peut les compter dans leurs groupes confus,  
+Prolongent, comme toi, leurs immenses cratères,  
+Font mouvoir, comme toi, des mondes planétaires,  
+Qui tournent autour d'eux, qui composent leur cour,  
+Et tiennent de leur roi la chaleur et le jour.  
+Oh ! oui, vous êtes mieux que des lampes nocturnes  
+Qu'allumeraient pour nous des veilleurs taciturnes,  
+Innombrables lueurs, étoiles qui poudrez  
+De votre sable d'or les chemins azurés ;  
+Chez vous palpite aussi la vie universelle,  
+Grands foyers, où notre œil ne voit qu'une étincelle.  
+Montons, montons encore. D'autres cieux fécondés  
+Sont, par delà nos cieux, d'étoiles inondés,  
+Et partout l'action, le mouvement et l'âme !  
+Partout, roulant autour de leurs centres en flamme,  
+_Des globes habités dont les hôtes pensants_  
+_Vivent comme je vis, sentent comme je sens :_  
+_Les uns plus abaissés, et les autres peut-être_  
+_Plus élevés que nous sur les degrès de l'être !_
+
+Fin des Notes.
