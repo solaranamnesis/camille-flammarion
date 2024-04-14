@@ -1766,7 +1766,26 @@ Cependant des considérations fondées sur l'influence de la chaleur rayonnante 
 
 Tableau du Commencement, de la Fin et de la Durée de l'Existence de la Nature Organisée dans chaque Planète, d'après Buffon.
 
-[TABLE]
+|                     | **Commencement a compter de la Formation des Planètes** | **Fin a dater de la Formation des Planètes** | **Durée absolue** | **Durée a dater de ce Jour** |
+|---------------------|---------------------------------------------------------|----------------------------------------------|-------------------|------------------------------|
+|                     | ans                                                     | ans                                          | ans               | ans                          |
+| 5e sat. de Saturne  | 5161                                                    | 47558                                        | 42389             | 0                            |
+| La Lune             | 7890                                                    | 72514                                        | 64624             | 0                            |
+| Mars                | 13685                                                   | 60326                                        | 58641             | 0                            |
+| 4e sat. de Saturne  | 18399                                                   | 76525                                        | 57126             | 1693                         |
+| 4e sat. de Jupiter  | 23730                                                   | 98696                                        | 74966             | 23874                        |
+| Mercure             | 26053                                                   | 187765                                       | 161712            | 112933                       |
+| La Terre            | 35983                                                   | 168123                                       | 132140            | 93291                        |
+| 3e sat. de Saturne  | 37672                                                   | 156658                                       | 118986            | 81826                        |
+| 2e sat. de Saturne  | 40373                                                   | 167928                                       | 127655            | 93096                        |
+| 1er sat. de Saturne | 42021                                                   | 174784                                       | 132763            | 99952                        |
+| Vénus               | 44067                                                   | 228540                                       | 184473            | 153708                       |
+| Anneau de Saturne   | 56396                                                   | 177568                                       | 121172            | 102730                       |
+| 3e sat. de Jupiter  | 59483                                                   | 247401                                       | 187918            | 172560                       |
+| Saturne             | 62906                                                   | 262020                                       | 199114            | 187188                       |
+| 2e sat. de Jupiter  | 64496                                                   | 271098                                       | 206602            | 196266                       |
+| 1er sat. de Jupiter | 74724                                                   | 311973                                       | 237249            | 237141                       |
+| Jupiter             | 115623                                                  | 483121                                       | 367498            |                              |
 
 Il suit donc de la théorie générale de Buffon :
 
