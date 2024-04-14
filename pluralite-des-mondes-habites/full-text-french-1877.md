@@ -1533,7 +1533,180 @@ Quelques jours avant son départ pour Rome, en janvier 1633, l'illustre septuag�
 
 ## Note B. --- Tableau des petites Planètes situées entre Mars et Jupiter.
 
-[TABLE]
+| **Nos d’ordre.** | **Noms.**    | **Distance au Soleil.** | **Découvreurs.** | **Dates.** |
+|------------------|--------------|-------------------------|------------------|------------|
+| 1                | Cérès.       | 2,77                    | Piazzy.          | 1801       |
+| 2                | Pallas.      | 2,77                    | Olbers.          | 1802       |
+| 3                | Junon.       | 2,67                    | Harding.         | 1804       |
+| 4                | Vesta.       | 2,36                    | Olbers.          | 1807       |
+| 5                | Astrée.      | 2,58                    | Hencke.          | 1845       |
+| 6                | Hébé.        | 2,42                    | Hencke.          | 1847       |
+| 7                | Iris.        | 2,39                    | Hind.            | 1847       |
+| 8                | Flore.       | 2,20                    | Hind.            | 1847       |
+| 9                | Métis.       | 2,39                    | Graham.          | 1848       |
+| 10               | Hygie.       | 3,14                    | De Gasparis.     | 1849       |
+| 11               | Parthénope.  | 2,45                    | De Gasparis.     | 1850       |
+| 12               | Victoria.    | 2,33                    | Hind.            | 1850       |
+| 13               | Egérie.      | 2,58                    | De Gasparis.     | 1850       |
+| 14               | Irène.       | 2,59                    | Hind.            | 1851       |
+| 15               | Eunomia.     | 2,64                    | De Gasparis.     | 1851       |
+| 16               | Psyché.      | 2,92                    | De Gasparis.     | 1852       |
+| 17               | Thétis.      | 2,47                    | Luther.          | 1852       |
+| 18               | Melpomène.   | 2,30                    | Hind.            | 1852       |
+| 19               | Fortune.     | 2,44                    | Hind.            | 1852       |
+| 20               | Massalia.    | 2,41                    | De Gasparis.     | 1852       |
+| 21               | Lutèce.      | 2,43                    | Goldschmidt.     | 1852       |
+| 22               | Calliope.    | 2,91                    | Hind.            | 1852       |
+| 23               | Thalie.      | 2,63                    | Hind.            | 1852       |
+| 24               | Thémis.      | 3,13                    | De Gasparis.     | 1853       |
+| 25               | Phocéa.      | 2,40                    | Chacornac.       | 1853       |
+| 26               | Proserpine.  | 2,66                    | Luther.          | 1853       |
+| 27               | Euterpe.     | 2,35                    | Hind.            | 1853       |
+| 28               | Bellone.     | 2,78                    | Luther.          | 1854       |
+| 29               | Amphitrite.  | 2,55                    | Marth.           | 1854       |
+| 30               | Uranie.      | 2,37                    | Hind.            | 1854       |
+| 31               | Euphrosine.  | 3,14                    | Ferguson.        | 1854       |
+| 32               | Pomone.      | 2,59                    | Goldschmidt.     | 1854       |
+| 33               | Polymnie.    | 2,86                    | Chacornac.       | 1854       |
+| 34               | Circé.       | 2,69                    | Chacornac.       | 1855       |
+| 35               | Leucothée.   | 2,99                    | Luther.          | 1855       |
+| 36               | Atalante.    | 2,74                    | Goldschmidt.     | 1855       |
+| 37               | Fidès.       | 2,64                    | Luther.          | 1855       |
+| 38               | Léda.        | 2,74                    | Chacornac.       | 1856       |
+| 39               | Lætitia.     | 2,77                    | Chacornac.       | 1856       |
+| 40               | Harmonie.    | 2,28                    | Goldschmidt.     | 1856       |
+| 41               | Daphné.      | 2,76                    | Goldschmidt.     | 1856       |
+| 42               | Isis.        | 2,44                    | Pogson.          | 1856       |
+| 43               | Ariadne.     | 2,20                    | Pogson.          | 1857       |
+| 44               | Nysa.        | 2,42                    | Goldschmidt.     | 1857       |
+| 45               | Eugénie.     | 2,72                    | Goldschmidt.     | 1857       |
+| 46               | Hestia.      | 2,53                    | Pogson.          | 1857       |
+| 47               | Aglaé.       | 2,88                    | Luther.          | 1857       |
+| 48               | Doris.       | 3,11                    | Goldschmidt.     | 1857       |
+| 49               | Palès.       | 3,08                    | Goldschmidt.     | 1857       |
+| 50               | Virginia.    | 2,65                    | Ferguson.        | 1857       |
+| 51               | Nemausa.     | 3,36                    | Laurent.         | 1858       |
+| 52               | Europe.      | 3,10                    | Goldschmidt.     | 1858       |
+| 53               | Calypso.     | 2,62                    | Luther.          | 1858       |
+| 54               | Alexandra.   | 2,71                    | Goldschmidt.     | 1858       |
+| 55               | Pandore.     | 2,76                    | Searle.          | 1858       |
+| 56               | Mélété.      | 2,60                    | Goldschmidt.     | 1858       |
+| 57               | Mnémosyne.   | 3,15                    | Luther.          | 1859       |
+| 58               | Concordia.   | 2,70                    | Luther.          | 1860       |
+| 59               | Olympie.     | 2,71                    | Chacornac.       | 1860       |
+| 60               | Echo.        | 2,39                    | Ferguson.        | 1860       |
+| 61               | Danaé.       | 2,98                    | Goldschmidt.     | 1860       |
+| 62               | Erato.       | 3,13                    | Förster.         | 1860       |
+| 63               | Ausonia.     | 2,40                    | De Gasparis.     | 1861       |
+| 64               | Angelina.    | 2,68                    | Tempel.          | 1861       |
+| 65               | Maximiliana. | 3,43                    | Tempel.          | 1861       |
+| 66               | Maïa.        | 2,65                    | Tuttle.          | 1861       |
+| 67               | Asie.        | 2,42                    | Pogson.          | 1861       |
+| 68               | Leto.        | 2,78                    | Luther.          | 1861       |
+| 69               | Hespérie.    | 2,98                    | Schiaparelli.    | 1861       |
+| 70               | Panopea.     | 2,61                    | Goldschmidt.     | 1861       |
+| 71               | Niobé.       | 2,76                    | Luther.          | 1861       |
+| 72               | Feronia.     | 2,67                    | Peters.          | 1861       |
+| 73               | Clytie.      | 2,66                    | Tuttle.          | 1862       |
+| 74               | Galatée.     | 2,78                    | Tempel.          | 1862       |
+| 75               | Eurydice.    | 2,67                    | Peters.          | 1862       |
+| 76               | Freia.       | 3,41                    | D’Arrest.        | 1862       |
+| 77               | Frigga.      | 2,67                    | Peters.          | 1862       |
+| 78               | Diane.       | 2,62                    | Luther.          | 1863       |
+| 79               | Eurynome.    | 2,44                    | Watson.          | 1863       |
+| 80               | Sapho.       | 2,30                    | Pogson.          | 1864       |
+| 81               | Terpsychore. | 2,85                    | Tempel.          | 1864       |
+| 82               | Alemène.     | 2,76                    | Luther.          | 1864       |
+| 83               | Beatrix.     | 2,43                    | De Gasparis.     | 1865       |
+| 84               | Clio.        | 2,36                    | Luther.          | 1865       |
+| 85               | Io.          | 2,65                    | Peters.          | 1865       |
+| 86               | Sémélé.      | 3,11                    | Tietjen.         | 1866       |
+| 87               | Sylvie.      | 3,48                    | Pogson.          | 1866       |
+| 88               | Thisbé.      | 2,77                    | Peters.          | 1866       |
+| 89               | Julie.       | 2,55                    | Stéphan.         | 1866       |
+| 90               | Antiope.     | 3,14                    | Luther.          | 1866       |
+| 91               | Egine.       | 2,59                    | Borrelly.        | 1866       |
+| 92               | Undine.      | 3,18                    | Peters.          | 1867       |
+| 93               | Minerve.     | 2,75                    | Watson.          | 1867       |
+| 94               | Aurore.      | 3,16                    | Watson.          | 1867       |
+| 95               | Aréthuse.    | 3,08                    | Luther.          | 1867       |
+| 96               | Eglé.        | 3,05                    | Coggia.          | 1868       |
+| 97               | Clotho.      | 2,67                    | Tempel.          | 1868       |
+| 98               | Ianthe.      | 2,69                    | Peters.          | 1868       |
+| 99               | Diké.        | 2,80                    | Borelly.         | 1868       |
+| 100              | Hécate.      | 3,09                    | Watson.          | 1868       |
+| 101              | Hélène.      | 2,58                    | Watson.          | 1868       |
+| 102              | Miriam.      | 2,66                    | Peters.          | 1868       |
+| 103              | Hera.        | 2,70                    | Watson.          | 1868       |
+| 104              | Clymène.     | 3,15                    | Watson.          | 1868       |
+| 105              | Artémise.    | 2,37                    | Watson.          | 1868       |
+| 106              | Dioné.       | 3,16                    | Watson.          | 1868       |
+| 107              | Camille.     | 3,48                    | Pogson.          | 1868       |
+| 108              | Hécube.      | 3,21                    | Luther.          | 1869       |
+| 109              | Felicitas.   | 2,69                    | Peters.          | 1869       |
+| 110              | Lydie.       | 2,72                    | Borrelly.        | 1870       |
+| 111              | Até.         | 2,59                    | Peters.          | 1870       |
+| 112              | Iphigénie.   | 2,43                    | Peters.          | 1870       |
+| 113              | Amalthée.    | 2,38                    | Luther.          | 1871       |
+| 114              | Cassandre.   | 2,67                    | Peters.          | 1871       |
+| 115              | Thyra.       | 2,38                    | Watson.          | 1871       |
+| 116              | Sirona.      | 2,77                    | Peters.          | 1871       |
+| 117              | Lomia.       | 2,99                    | Borrelly.        | 1871       |
+| 118              | Peitho.      | 2,43                    | Luther.          | 1872       |
+| 119              | Althée.      | 2,58                    | Watson.          | 1872       |
+| 120              | Lachésis.    | 3,12                    | Borrelly.        | 1872       |
+| 121              | Hermione.    | 3,46                    | Watson.          | 1872       |
+| 122              | Gerda.       | 3,22                    | Peters.          | 1872       |
+| 123              | Brunhilda.   | 2,69                    | Peters.          | 1872       |
+| 124              | Alceste.     | 2,63                    | Peters.          | 1872       |
+| 125              | Liberatrix.  | 3,03                    | Pr. Henry.       | 1872       |
+| 126              | Velleda.     | 2,44                    | Paul Henry.      | 1872       |
+| 127              | Johanna.     | 3,32                    | Pr. Henry.       | 1872       |
+| 128              | Némésis.     | 2,75                    | Watson.          | 1872       |
+| 129              | Antigone.    | 2,87                    | Peters.          | 1873       |
+| 130              | Electre.     | 3,13                    | Peters.          | 1873       |
+| 131              | Vala.        | 2,42                    | Peters.          | 1873       |
+| 132              | Æthra.       | 2,60                    | Watson.          | 1873       |
+| 133              | Cyrène.      | 3,06                    | Watson.          | 1873       |
+| 134              | Sophrosyne.  | 2,57                    | Luther.          | 1873       |
+| 135              | Herta.       | 2,43                    | Peters.          | 1874       |
+| 136              | Austria.     | 2,30                    | Palisa.          | 1874       |
+| 137              | Melibœa.     | 3,05                    | Palisa.          | 1874       |
+| 138              | Tolosa.      | 2,43                    | Perrotin.        | 1874       |
+| 139              | Juewa.       | 2,81                    | Watson.          | 1874       |
+| 140              | Siva.        | 2,71                    | Watson.          | 1874       |
+| 141              | Lumen.*      | 2,71                    | Pr. Henri.       | 1875       |
+| 142              | Polana.      | 2,39                    | Palisa.          | 1875       |
+| 143              | Adria.       | 2,75                    | Palisa.          | 1875       |
+| 144              | Vibilia.     | 2,65                    | Peters.          | 1875       |
+| 145              | Adeona.      | 2,69                    | Peters.          | 1875       |
+| 146              | Lucine.      | 2,71                    | Borrelly.        | 1875       |
+| 147              | Protogénie.  | 2,12                    | Schulhof.        | 1875       |
+| 148              | Gallia.      | 2,78                    | Pr. Henry.       | 1875       |
+| 149              | Méduse.      |                         | Perrotin.        | 1875       |
+| 150              | Nuwa.        | 2,98                    | Watson.          | 1875       |
+| 151              | Abondance.   | 2,58                    | Palisa.          | 1875       |
+| 152              | Atala.       | 3,13                    | Paul Henry.      | 1875       |
+| 153              | Hilda.       | 3,95                    | Palisa.          | 1875       |
+| 154              | Berthe.      | 3,20                    | Pr. Henry.       | 1875       |
+| 155              | Scylla.      | 2,13                    | Palisa.          | 1875       |
+| 156              | Xantippe.    | 3,04                    | Palisa.          | 1875       |
+| 157              | Déjanire.    | 2,59                    | Borrelly.        | 1875       |
+| 158              | Coronis.     | 2,99                    | Knorre.          | 1876       |
+| 159              | Emilie.      | 3,13                    | Paul Henry.      | 1876       |
+| 160              | Una.         | 2,73                    | Peters.          | 1876       |
+| 161              | Athor.       | 2,38                    | Watson.          | 1876       |
+| 162              | Laurentia.   | 3,02                    | Pr. Henry.       | 1876       |
+| 163              | Erigone.     | 2,35                    | Perrotin.        | 1876       |
+| 164              | Eve.         | 2,55                    | Paul Henry.      | 1876       |
+| 165              | Loreley.     |                         | Peters.          | 1876       |
+| 166              | Rhodope.     |                         | Peters.          | 1876       |
+| 167              | Urda.        | 3,22                    | Peters.          | 1876       |
+| 168              | Sibylla.     |                         | Palisa.          | 1876       |
+| 169              | Zelia.       | 2,35                    | Pr. Henry.       | 1876       |
+| 170              | Maria.       | 2,55                    | Perrotin.        | 1877       |
+| 171              |              | 3,14                    | Borrelly.        | 1877       |
+| 172              |              | 2,38                    | Borrelly.        | 1877       |
 
 *) Cette planète, découverte a l'Observatoire de Paris, le 13 janvier 1875, a reçu son nom en souvenir de notre ouvrage _Lumen : Récits de l'Infini_. Nous nous faisons un plaisir de remercier ici de cette gracieuse attention l'astronome qui l'a découverte. --- Déjà on nous avait fait l'honneur de nous inviter à baptiser la planète 87, et de nommer en notre intention la planète 107 ; et depuis on a bien voulu nous prier de nommer aussi les planètes 154 et 169.  
 Au moment de l'impression, de cette feuille (août 1877), il reste plusieurs planètes qui n'ont pas encore reçu de noms, ou n'ont pas encore été calculées.
