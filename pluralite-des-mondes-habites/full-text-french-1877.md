@@ -22,6 +22,8 @@ Dans le grand archipel des Mondes.
 
 ---
 
+[Aspects de la Terre et de Mars. (Grandeurs : Rayon de la Terre = 1592 lieues ; Rayon de Mars = 827 lieues.)]()
+
 # Avertissement de la Vingt-cinquième Édition.
 
 Quinzé ans se sont écoulés depuis la publication de la première édition de cet ouvrage. Lorsqu'en 1862, jeune élève-astronome à l'Observatoire de Paris, je reçus de l'imprimeur de cet établissement l'invitation de laisser imprimer mon travail primitif, je ne me doutais point de l'écho qu'il devait rapidement trouver dans le monde des lecteurs. Tout intéressante qu'elle me parût personnellement, la question astronomique et philosophique de la pluralité des mondes ne me semblait pas susceptible de captiver l'attention populaire. L'événement a montré le contraire : vingt-cinq fois cet ouvrage a été réimprimé en France pendant ces quinze années, et il est traduit dans les langues principales des deux continents.
