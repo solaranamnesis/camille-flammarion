@@ -1,4 +1,4 @@
-# La Pluralité des Mondes Habités
+# La Pluralité des Mondes Habités.
 
 ## Étude ou l'on Expose les Conditions d'Habitabilité des Terres Célestes.
 
