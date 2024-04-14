@@ -1739,7 +1739,26 @@ Les recherches de Buffon sur le refroidissement de la Terre et des autres planè
 
 Tableau des Temps du Refroidissement des Planètes et des Satellites, d'après Buffon.
 
-[TABLE]
+|           | **Consolidées jusqu’au Centre** | **Refroidies a pouvoir les Toucher** | **Refroidies a la Température actuelle** | **Refroidies a 1/25e* de la Température actuelle** |
+|-----------|---------------------------------|--------------------------------------|------------------------------------------|----------------------------------------------------|
+|                                 | ans                                  | ans                                      | ans                                                | ans       |
+| _La Terre_                      | en 2936                              | en 34270                                 | en 74832                                           | en 168123 |
+| _La Lune_                       | 644                                  | 7515                                     | 16109                                              | 72514     |
+| _Mercure_                       | 2127                                 | 24813                                    | 54192                                              | 187765    |
+| _Vénus_                         | 3596                                 | 41769                                    | 91643                                              | 228540    |
+| _Mars_                          | 1130                                 | 13034                                    | 28538                                              | 60326     |
+| _Jupiter_                       | 9433                                 | 110118                                   | 240451                                             | 483121    |
+| 1er satellite                   | 6238                                 | 71166                                    | 155986                                             | 311973    |
+| 2e satellite                    | 5262                                 | 61425                                    | 135549                                             | 271098    |
+| 3e satellite                    | 4788                                 | 56651                                    | 123701                                             | 247401    |
+| 4e satellite                    | 1938                                 | 22600                                    | 49348                                              | 98696     |
+| _Saturne_                       | 5140                                 | 59911                                    | 130821                                             | 262020    |
+| Anneau                          | 4604                                 | 53711                                    | 88784                                              | 177568    |
+| 1er satellite                   | 3433                                 | 40021                                    | 87392                                              | 174784    |
+| 2e satellite                    | 3291                                 | 38451                                    | 83964                                              | 167928    |
+| 3e satellite                    | 3182                                 | 35878                                    | 78329                                              | 156658    |
+| 4e satellite                    | 1502                                 | 17523                                    | 38262                                              | 76525     |
+| 5e satellite                    | 421                                  | 4916                                     | 10739                                              | 47558     |
 
 *) Buffon donne ce degré de refroidissement comme étant la limite de l'existence des êtres vivants.
 
