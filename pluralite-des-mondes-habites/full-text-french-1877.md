@@ -70,6 +70,41 @@ Dans le grand archipel des Mondes.
 
 ## [Note B. --- Tableau des petites Planètes situées entre Mars et Jupiter.](#note-b-----tableau-des-petites-planètes-situées-entre-mars-et-jupiter-1)
 
+## [Note C. --- Sur la Chaleur à la Surface des Planètes.](#note-c-----sur-la-chaleur-à-la-surface-des-planètes-1)
+
+## [Note D. --- Sur la Constitution intérieure du Globe terrestre.](#note-d-----sur-la-constitution-intérieure-du-globe-terrestre-1)
+
+## [Note E. --- L'Analyse Spectrale et la Vie sur les autres Mondes.](#note-e-----lanalyse-spectrale-et-la-vie-sur-les-autres-mondes-1)
+
+## [Note F. --- Comment on détermine les Distances des Étoiles à la Terre ou Calcul de la Parallaxe.](#note-f-----comment-on-détermine-les-distances-des-étoiles-à-la-terre-ou-calcul-de-la-parallaxe-1)
+
+## [Note G. --- De Generatione.](#note-g-----de-generatione-1)
+
+# [Extraits Philosophiques pour servir à l'Histoire de la Pluralité des Mondes.](#extraits-philosophiques-pour-servir-à-lhistoire-de-la-pluralité-des-mondes-1)
+
+## [Plutarque.](#plutarque-1)
+
+## [Cyrano de Bergerac.](#cyrano-de-bergerac-1)
+
+## [Fontenelle.](#fontenelle-1)
+
+## [Huygens.](#huygens-1)
+
+## [Voltaire.](#voltaire-1)
+
+## [Swedenborg.](#swedenborg-1)
+
+## [Charles Bonnet de Genève.](#charles-bonnet-de-genève-1)
+
+## [Lambert.](#lambert-1)
+
+## [Sir Humphry Davy.](#sir-humphry-davy-1)
+
+## [Young.](#young-1)
+
+## [De Fontanes.](#de-fontanes-1)
+
+## [Ponsard.](#ponsard-1)
 
 ---
 
