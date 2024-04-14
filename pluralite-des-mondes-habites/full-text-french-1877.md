@@ -1766,6 +1766,8 @@ Cependant des considérations fondées sur l'influence de la chaleur rayonnante 
 
 Tableau du Commencement, de la Fin et de la Durée de l'Existence de la Nature Organisée dans chaque Planète, d'après Buffon.
 
+**Date de la Formation des Planètes : 74832 Ans.**
+
 |                     | **Commencement a compter de la Formation des Planètes** | **Fin a dater de la Formation des Planètes** | **Durée absolue** | **Durée a dater de ce Jour** |
 |---------------------|---------------------------------------------------------|----------------------------------------------|-------------------|------------------------------|
 |                     | ans                                                     | ans                                          | ans               | ans                          |
@@ -1975,7 +1977,19 @@ Parmi ces _quelques_ autres étoiles dont on a pu mesurer le déplacement appare
 
 Pour exprimer ces distances en lieues, il suffit évidemment de les multiplier par la valeur du rayon de l'orbite terrestre, égal, en nombre rond, à 37,000,000 de lieues. Rien n'est donc plus facile que de former le tableau suivant, qui représente le nom des principales étoiles dont la parallaxe a été mesurée, la valeur de chaque parallaxe, la distance qui en résulte, en rayons de l'orbite terrestre, et enfin la distance en lieues. Des 21 étoiles dont on a déterminé la distance, à divers degrés d'approximation, les suivantes sont celles qui méritent le plus de confiance et qui peuvent être regardées, dans les limites où elles se tiennent, comme rigoureusement exactes. (La liste des autres étoiles et des dimensions mesurées dans l'univers se trouve dans nos _Récits de l'infini_, p. 411.)
 
-[TABLE]
+**Distance a la Terre**
+
+|                                  | **Parallaxe.** | **Rayons de l’orbite terrestre.** | **_millions_ de lieues.** |
+|----------------------------------|----------------|-----------------------------------|---------------------------|
+| α du Centaure (_Proxima_)        | 0’’92          | 224700                            | 8318900                   |
+| 61e du Cygne                     | 0’’51          | 404000                            | 14948000                  |
+| β du Centaure                    | 0’’50          | 416000                            | 15392000                  |
+| α du Grand Chien (_Sirius_)      | 0’’19          | 1068000                           | 39516000                  |
+| α de la Lyre (_Véga_)            | 0’’18          | 1146000                           | 42402000                  |
+| τ de la Grande Ourse             | 0’’133         | 1550000                           | 58934200                  |
+| α du Bouvier (_Arcturus_)        | 0’’127         | 1624000                           | 61712000                  |
+| α de la Petite Ourse (_Polaire_) | 0’’076         | 2714600                           | 100041000                 |
+| α du Cocher (_la Chèvre_)        | 0’’046         | 4484000                           | 170392000                 |
 
 ## Note G. --- De Generatione.
 
