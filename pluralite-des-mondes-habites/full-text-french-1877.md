@@ -1418,7 +1418,7 @@ On vient de voir quelles sont les explications que l'on a émises pour concilier
 
 ### 2\. Cosmogonie des Livres Saints.
 
-[]()
+[Schéma.](https://cdn.solaranamnesis.com/CamilleFlammarion/flammarion-06.png)
 
 Tous les théologiens reconnaîtront cette antique et solennelle figure, qui leur rappellera le chapitre _de Ente locomobili_ de la _Pars physica_ de leurs traités séculaires, et qui les ramènera au moyen âge, leur glorieuse époque. En effet, nous extrayons cette figure d'un célèbre ouvrage imprimé on l'an 1591, siècle de Copernic ; elle représente le système de Ptolémée christianisé, comme ces cartes muettes que l'on baptise de noms conventionnels. Au centre du monde trône _la Terre_, séjour de l'homme, théâtre de ses épreuves, habitation de sa vie temporelle. Sous la surface terrestre sont les lieux inférieurs, où les bonnes vues peuvent entrevoir l'antique Tartare, connu présentement sous le nom d'Enfer. Au-delà de la Terre, en s'élevant vers le Ciel, on rencontre d'abord la sphère des éléments, où le feu succède à l'air ; puis les sphères de la Lune, de Mercure, de Vénus, que visita successivement Dante le vendredi saint de l'an 1300 ; puis le Soleil, Mars, Jupiter et Saturne, septième et dernière planète. Plus haut on aperçoit le firmament (_firmus_, solide), où sont attachées les étoiles fixes* ; puis le merveilleux neuvième ciel ; puis le premier mobile, ou cristallin ; enfin l'Empyrée, ou _séjour des bienheureux_.
 
@@ -1950,7 +1950,7 @@ En vertu du mouvement elliptique annuel de la Terre sur son orbite autour du Sol
 
 Représentons l'orbite terrestre par la courbe circulaire suivante. Soit S, le Soleil, situé au centre ; soit TST' le diamètre de l'orbite terrestre ; soient T la position de la Terre à une certaine époque de l'année, T' sa position six mois plus tard, et, par conséquent, à l'extrémité du même diamètre ; soit, enfin, E l'étoile dont on veut mesurer la distance.
 
-[]()
+[Figure.](https://cdn.solaranamnesis.com/CamilleFlammarion/flammarion-07.png)
 
 Imaginons que l'observateur en T mesure d'abord l'angle STE, puis que, parvenu en T', il mesure ensuite l'angle ST'E. On sait que dans tout triangle la somme des trois angles est égalé à deux droits, c'est-à-dire à 180°. Si donc on fait la somme des deux angles mesurés STE et ST'E, et si l'on retranche cette somme de 180°, on aura la valeur de l'angle T'ET, troisième angle du triangle. La valeur de cet angle sera connue aussi exactement que si l'on avait pu se transporter dans l'étoile E et le mesurer directement.
 
