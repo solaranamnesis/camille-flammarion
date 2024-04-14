@@ -22,7 +22,9 @@ Dans le grand archipel des Mondes.
 
 ---
 
-[Aspects de la Terre et de Mars. (Grandeurs : Rayon de la Terre = 1592 lieues ; Rayon de Mars = 827 lieues.)]()
+[Illustration de Couverture](https://cdn.solaranamnesis.com/CamilleFlammarion/flammarion-cover.png)
+
+[Aspects de la Terre et de Mars. (Grandeurs : Rayon de la Terre = 1592 lieues ; Rayon de Mars = 827 lieues.)](https://cdn.solaranamnesis.com/CamilleFlammarion/flammarion-01.png)
 
 # Avertissement de la Vingt-cinquième Édition.
 
