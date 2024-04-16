@@ -1,7 +1,7 @@
 # La Pluralité des Mondes Habités (Didier 1877).
 
 [French - Plain Text](full-text-french-1877.md)  
-French - PDF | Biolinum | Atkinson | Cursive | Aurical | Kerkis | Custom  
+[French - PDF](https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french.pdf) | [Biolinum](https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_biolinum.pdf) | [Atkinson](https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_atkinson.pdf) | [Cursive](https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_frcursive.pdf) | [Aurical](https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_aurical.pdf) | [EkaterinaCustom1](https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_custom_1.pdf) | [EkaterinaCustom2](https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_custom_2.pdf)  
 English - Plain Text  
 English - PDF  
 
